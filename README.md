@@ -4,7 +4,7 @@
 
 > Using pure html and css, I have clone tribute page web-page
 
-![screenshot](images/screenshot.jpeg)
+![screenshot](images/tribute.png)
 
 
 ## Built With
